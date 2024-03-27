@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **my cyber security master program**
 
-- 🌱 I’m currently learning **Networks**
+- 🌱 I’m currently learning **Networks and web pentesting**
 
 - 📫 How to reach me **mohmmedshurrab07@gmail.com**
 <br>
