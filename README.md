@@ -1,7 +1,7 @@
 ![MasterHead](https://static.vecteezy.com/system/resources/previews/000/678/463/original/programming-doodle-on-blue-background.jpg)
 <h1 align="center">Hi 👋, I'm Mohammed Shurrab</h1>
 <h3 align="center">Back End Web Developer, Data Scientist and Cyber Security Engineer</h3>
-<img [align='right' alt='coding' width='400' src='https://granroyalleigarape.com.br/wp-content/uploads/2021/05/programmer.gif](https://th.bing.com/th/id/R.c0d1b11e54c2b07f7353dd160e8ba80d?rik=%2bEELJ6KgPy2Qcg&pid=ImgRaw&r=0)'>
+<img align='right' alt='coding' width='400' src='https://granroyalleigarape.com.br/wp-content/uploads/2021/05/programmer.gif'>
 
 <br>
 <p/> 
