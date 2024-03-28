@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **mohmmedshurrab07@gmail.com**
 
-- Check out my CV: **https://bold.pro/my/mohammed-shurrab**
+- 🛡️ Check out my CV: **https://bold.pro/my/mohammed-shurrab**
 </p>
 <br>
 <h3 align="left">Connect with me:</h3>
