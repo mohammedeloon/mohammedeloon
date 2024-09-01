@@ -1,18 +1,19 @@
-![MasterHead](https://static.vecteezy.com/system/resources/previews/000/678/463/original/programming-doodle-on-blue-background.jpg)
+![MasterHead](https://granroyalleigarape.com.br/wp-content/uploads/2021/05/programmer.gif)
 <h1 align="center">Hi 👋, I'm Mohammed Shurrab</h1>
-<h3 align="center">Back End Web Developer, Data Scientist and Cyber Security Engineer</h3>
-<img align='right' alt='coding' width='400' src='https://granroyalleigarape.com.br/wp-content/uploads/2021/05/programmer.gif'>
-
+<h3 align="center">SOC Analyst || Penetration Tester</h3>
+<!-- <img align='right' alt='coding' width='400' src='https://granroyalleigarape.com.br/wp-content/uploads/2021/05/programmer.gif'>
+ -->
 <br>
 <p/> 
 
-- 🔭 I’m currently working on **my cyber security master program**
-
-- 🌱 I’m currently learning **Networks and web pentesting**
-
+- 🔭 I’m currently working on **my master's in Cyber Forensics and Counterterrorism**
 - 📫 How to reach me **mohmmedshurrab07@gmail.com**
+- Here is a brief summary about me:
+  
+A seasoned and detail-oriented SOC Analyst with 2 years of experience in SIEM systems such as MS Sentinel, Wazuh and Splunk. I am proficient in writing analytical rules  in both XML and KQL with the ability to deal with  threat intelligence platforms like PaloAlto and TAXII and use them to improve the incident management process. I utilize various threat hunting approaches like hypothesis driven investigation according to the latest TTPs.  I possess a strong foundation in network protocols (TCP/IP, DNS, and HTTP) and am skilled in handling IDS/IPS tools like Suricata and Snort, as well as network analyzers like Wireshark.
 
-- 🛡️ Check out my CV: **https://bold.pro/my/mohammed-shurrab**
+During my previous jobs and internships, I used to do some work of a penetration testing like  Manually discovering critical vulnerabilities in web applications and CPanels (SSRF, Command Injection, Owasp top10, and more .),review the source code of project utilizing LAMP stack  and using  Metasploit for scanning, exploiting, and pivoting through target environments. Skilled in Python for creating custom scripts.
+
 </p>
 <br>
 <h3 align="left">Connect with me:</h3>
@@ -22,10 +23,52 @@
 </p>
 
 <br>
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Languages:</h3>
+<br>
+<p align="left"> 
+- Java
+- Python
+- PHP 
+- Bash
+- SQL
+- KQL
+</p>
+
 <br>
 
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+<br>
+<h3 align="left">Tools:</h3>
+<br>
+<p align="left"> 
+- Wazuh SIEM
+- Splunk SIEM
+- MS Sentinel SIEM
+- MS AZURE
+- Mysql
+- Oracle 
+- Postman
+- Burp Suite
+- Metasploit
+- Nmap
+- Nikto
+- Git & Git Hub 
+- Snort
+- Wireshark
+- OWSAP zap
+- OWSAP top 10
+
+</p>
+
+<br>
+
+<br>
+<h3 align="left"> Certifications:</h3>
+<br>
+<p align="left"> 
+- Security+
+- ACEH
+</p>
+
 <br>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohammedeloon&show_icons=true&locale=en&layout=compact" alt="mohammedeloon" /></p>
