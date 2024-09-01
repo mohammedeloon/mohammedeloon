@@ -22,7 +22,6 @@ During my previous jobs and internships, I used to do some work of a penetration
 <a href="https://www.leetcode.com/https://leetcode.com/mosh12/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/mosh12/" height="30" width="40" /></a>
 </p>
 
-<br>
 <h3 align="left">Languages:</h3>
 <br>
 <p align="left"> 
@@ -34,9 +33,7 @@ During my previous jobs and internships, I used to do some work of a penetration
 - KQL
 </p>
 
-<br>
 
-<br>
 <h3 align="left">Tools:</h3>
 <br>
 <p align="left"> 
@@ -59,9 +56,7 @@ During my previous jobs and internships, I used to do some work of a penetration
 
 </p>
 
-<br>
 
-<br>
 <h3 align="left"> Certifications:</h3>
 <br>
 <p align="left"> 
@@ -69,6 +64,7 @@ During my previous jobs and internships, I used to do some work of a penetration
 - ACEH
 </p>
 
+<br>
 <br>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohammedeloon&show_icons=true&locale=en&layout=compact" alt="mohammedeloon" /></p>
