@@ -11,7 +11,7 @@
   
 A seasoned and detail-oriented SOC Analyst with 2 years of experience in SIEM systems such as MS Sentinel, Wazuh and Splunk. I am proficient in writing analytical rules  in both XML and KQL with the ability to deal with  threat intelligence platforms like PaloAlto and TAXII and use them to improve the incident management process. I utilize various threat hunting approaches like hypothesis driven investigation according to the latest TTPs.  I possess a strong foundation in network protocols (TCP/IP, DNS, and HTTP) and am skilled in handling IDS/IPS tools like Suricata and Snort, as well as network analyzers like Wireshark.
 
-During my previous jobs and internships, I used to do some work of a penetration testing like  Manually discovering critical vulnerabilities in web applications and CPanels (SSRF, Command Injection, Owasp top10, and more .),review the source code of project utilizing LAMP stack  and using  Metasploit for scanning, exploiting, and pivoting through target environments. Skilled in Python for creating custom scripts.
+During my previous jobs and internships, I used to do some work of a penetration testing like  Manually discovering critical vulnerabilities in web applications and CPanels (SSRF, Command Injection, Owasp top10, and more .),review the source code of project utilizing LAMP stack  and using nmap, nessus and Metasploit for scanning, exploiting, and pivoting through target environments. Skilled in Python for creating custom scripts.
 
 </p>
 <br>
@@ -52,6 +52,9 @@ During my previous jobs and internships, I used to do some work of a penetration
 - Wireshark
 - OWSAP zap
 - OWSAP top 10
+- nessus 
+- Microsoft threat modeling tool
+- power BI
 
 </p>
 
