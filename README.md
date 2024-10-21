@@ -66,15 +66,6 @@ During my previous jobs and internships, I used to do some work of a penetration
 - ACEH
 </p>
 
-<br>
-<br>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohammedeloon&show_icons=true&locale=en&layout=compact" alt="mohammedeloon" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mohammedeloon&show_icons=true&locale=en" alt="mohammedeloon" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohammedeloon&" alt="mohammedeloon" /></p>
-
 
 
 
